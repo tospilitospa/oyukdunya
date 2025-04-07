@@ -1,0 +1,51 @@
+Oyuk Dünya Günlükleri
+
+Bölüm 8: Kırılgan Huzur ve Yeni Görev
+
+Öksürük Kael’i sarsarak bilincini geri getirdi. Gözlerini açtığında gördüğü ilk şey, havada asılı duran kalın toz bulutu ve acı bir yanık kokusuydu. Kulakları çınlıyor, vücudunun her hücresi ağrıyordu. Kontrol odası bir savaş alanına dönmüştü; konsolların çoğu parçalanmış, etrafa metal ve kristal kırıkları saçılmıştı. Tavandan büyük parçalar kopmuş, yer yer zemin çökmüştü.
+
+Gözleri korkuyla odanın ortasındaki mühür çekirdeğine kaydı. Beklediği gibi paramparça olmamıştı. Aksine, tuhaf bir şekilde… sakindi. Artık kör edici beyaz ışıkla ya da tehlikeli kıvılcımlarla atmıyordu. Bunun yerine, çatlaklarından derin, kadifemsi, ışığı emen bir siyahlık sızıyor, tıpkı Kael’in dokunduğu o ilk artefakt gibi, sabit ve düşük bir uğultu çıkarıyordu. Mekanizma hâlâ kırıktı, hâlâ yanlış hissettiriyordu ama en azından patlamamıştı. Şimdilik.
+
+Zihnindeki arayüz titreyerek canlandı, ekranın bazı bölümleri bozuk verilerle kaplıydı.
+
+[SİSTEM YENİDEN BAŞLATILIYOR...]
+[HATA DENETİMİ YAPILIYOR... ÇOKLU ALT SİSTEM ARIZASI ALGILANDI.]
+[ÇEKİRDEK FONKSİYONLAR AKTİF. STABİLİTE DÜŞÜK.]
+
+Kael nefesini tutarak sordu, Mühür Durumu?
+
+[MÜHÜR STABİLİTESİ: %?? - GEÇİCİ STABİLİZASYON AKTİF (DIŞ KAYNAKLI).]
+[KARARLILIK: DÜŞÜK. DALGALANMA RİSKİ YÜKSEK.]
+[BOYUTSAL PARAZİT SEVİYESİ: YÜKSEK AMA BASTIRILMIŞ (GEÇİCİ).]
+
+Başarmıştı. Bir şekilde başarmıştı. Tamamen çökmesini engellemiş, geçici de olsa bir denge sağlamıştı. Peki ya kendisi? Kişisel Durum.
+
+[DURUM: AĞIR YARALI (İç ve Dış Travma, Enerji Yanığı).]
+[DAYANIKLILIK: 35/100.]
+[ÖZ ENERJİ: 10/100 (Neredeyse Tükenmiş).]
+[UYARI: KADİM BAĞ AŞIRI YÜKLENDİ. SİSTEM BÜTÜNLÜĞÜ %55. FONKSİYON KAYBI RİSKİ.]
+
+Bedeli ağır olmuştu. Neredeyse tükenmişti ve Sistemi de hasar görmüştü. Ama hayattaydı. Ve mühür, şimdilik, tutuyordu. Karşıdaki dev ekrana baktı. Karanlıktı. O ezici, zihin büken baskı gitmişti. Yerini derin bir sessizlik ve hâlâ hissedilen ama artık doğrudan tehdit etmeyen bir dehşet duygusu almıştı. Ne kadar zaman kazanmıştı? Dakikalar mı? Saatler mi? Bilmiyordu.
+
+Tam o sırada, Sistem arayüzünde yeni, beklenmedik bir pencere açıldı. Başlığı [ENERJİ GERİ-AKIŞ ANALİZİ - KISMI VERİ KURTARMA] idi. Görünüşe göre Kael'in mühürle olan tehlikeli etkileşimi, sistemin normalde erişemeyeceği bazı verileri ortaya çıkarmıştı.
+
+[...tespit edilen harici enerji (Kadim Bağ Kaynaklı?) mühür matrisi ile yüksek uyumluluk gösterdi...]
+[...geçici rezonans köprüsü oluşturuldu, çekirdek stabilizasyonu sağlandı...]
+[...UYARI: Rezonans köprüsü aşırı yüklenme nedeniyle kararsız. Kalıcı stabilizasyon veya onarım için FİZİKSEL ANAHTAR gereklidir.]
+[...Potansiyel Anahtar Kimliği: Kadim Bağ Artefaktı (Sınıf 1 Stabilizatör?).]
+[...Öneri: Anahtarın Çekirdek Odasına fiziksel olarak entegrasyonu mühür ömrünü uzatabilir veya onarım protokolünü başlatabilir.]
+[...Diğer potansiyel mühür düğüm noktaları harita verisi... BOZUK...]
+
+Kael okuduklarına inanamadı. Demek o siyah küre, sadece Sistemi aktive eden bir nesne değildi. Bu mührün, belki de Oyuk Dünya'daki diğer mühürlerin (eğer varsa) anahtarı veya dengeleyicisiydi. Ve Kael'in son çaresizlik hamlesi, sadece geçici bir yama yapmıştı. Daha kalıcı bir çözüm için, o kürenin buraya, bu kontrol odasına getirilmesi gerekiyordu.
+
+Ama Sistem daha önce [Kaldırılamaz] dememiş miydi? Belki de bu, Kael'in o anki gücüyle kaldıramayacağı anlamına geliyordu? Ya da belki de 'kaldırılamaz' kelimesi, onu yerinden sökmenin tehlikeli olacağını ima ediyordu? Ya da en kötü ihtimalle, anahtarın kendisi değil de, anahtarla 'bağlantılı' olan kişinin, yani Kael'in burada kalması gerekiyordu? Bu düşünce içini ürpertti.
+
+Ne olursa olsun, şu anki gerçek değişmiyordu: O siyah küreye ulaşması gerekiyordu. İlk dokunduğu o gizli odaya geri dönmeliydi.
+
+Bu neredeyse imkânsız bir görevdi. Geri dönüş yolu uzundu. Yaralıydı, Öz Enerjisi tükenmişti, lambasındaki yağ bitmek üzereydi ([Lamba Yağı: %10]). Ve en önemlisi, buradaki kırılgan denge her an bozulabilirdi.
+
+Ama başka seçeneği yoktu. Eğer bir şansları varsa, o artefaktta yatıyordu.
+
+Acıyla inleyerek kendini yerden kaldırdı. Her kası protesto ediyordu. Kolundaki kanama yavaşlamıştı ama hâlâ sızlıyordu. Bıçağını yerden aldı, titreyen ışığıyla etrafı son bir kez taradı. Uğuldayan, çatlaklarından siyah ışık sızan mühür çekirdeği, ona hem bir zafer anıtı hem de bir saatli bomba gibi görünüyordu.
+
+Arkasına bakmadan, ağır adımlarla geldiği yöne, hasarlı güvenlik kapısına doğru sendeledi. Kontrol odasının ürkütücü sessizliğini ve kırılgan huzurunu geride bırakarak, kendini tekrar dar, karanlık servis koridoruna attı. Önündeki yol tehlikelerle doluydu ve zaman aleyhine işliyordu. Ama artık umutsuz bir kaşif değildi; imkânsız bir görevi olan, yaralı bir haberciydi. Ve Oyuk Dünya'nın kaderi, onun o siyah küreye zamanında ulaşıp ulaşamamasına bağlı olabilirdi.

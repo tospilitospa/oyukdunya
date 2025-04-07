@@ -1,0 +1,55 @@
+Oyuk Dünya Günlükleri
+
+Bölüm 3: Çürümenin Fısıltıları
+
+Ertesi sabah, Kael gözlerini açtığında ilk fark ettiği şey, görüş alanının kenarındaki soluk mavi parıltı oldu. Sistem oradaydı, kalıcı bir yoldaş gibi. Gece boyunca, arayüzü zihninde nasıl daha az belirgin hale getireceğini, normal bakarken neredeyse görünmez kılmayı pratik etmişti. Tamamen yok olmuyordu ama en azından sürekli gözüne batmıyordu. Yine de varlığını bilmek tuhaftı.
+
+Kovuk'un sabah rutini her zamanki gibi kasvetliydi. Su dağıtım sırasındaki gergin sessizlik, paylarına düşen yarım matara suyu alırken insanların yüzündeki endişe, ortak yemekhanede dağıtılan tatsız yosun lapasının azlığı… Küf salgını sadece ışığı değil, moralleri de tüketiyordu. Kael, sıradaki yerini alırken, lapanın küçülen porsiyonunu alırken etrafındakilere normal görünmeye çalıştı. Kimsenin gözünde en ufak bir tuhaflık sezmemeliydi. Özellikle de dün gece zihninde beliren o görevden sonra: [Görev: Köklerin Derinliklerindeki Salgın].
+
+Kahvaltısını bitirdikten sonra kararını verdi. Oturup bekleyemezdi. Bilgi toplamalıydı. Ve bunun için en mantıklı yer, sorunun kalbiydi: Lumina-Mantar tarlaları.
+
+Tarlaların bulunduğu geniş mağara sistemine giden tünelden ilerlerken bile havadaki değişim hissediliyordu. Her zamanki nemli toprak ve hafif ozon kokusuna, keskin, rahatsız edici bir çürüme kokusu karışmıştı. Mağaraya adım attığında manzara iç sıkıcıydı. Bir zamanlar tüm Kovuk’u aydınlatan, tavandan sarkan ve yerden biten devasa, parlak mantarların oluşturduğu mavi-yeşil ışıklı orman, şimdi yer yer karanlık lekelerle kaplıydı. Sağlıklı mantarların soluk ışıltısı, hızla yayılan siyah, yapışkan görünümlü küfün istila ettiği bölgelerin yanında cılız kalıyordu. Çürüyen mantarlardan yayılan koku geniz yakıyordu.
+
+İleride, en kötü etkilenmiş görünen bölümlerden birinde, birinin eğilmiş çalıştığını gördü. Elara'ydı bu; Mantar Korucularının başı. Orta yaşlı, yüzündeki her çizginin endişeyle daha da derinleştiği, güçlü kuvvetli bir kadındı. Elinde tuttuğu aletle küflü bir mantarın dokusunu inceliyor, kaşları çatık bir şekilde mırıldanıyordu.
+
+Kael yavaşça yaklaştı. "Elara?"
+
+Kadın başını hızla kaldırdı, gözlerinde yorgunluk ve güvensizlik vardı. Kael'i görünce kaşları daha da çatıldı. "Hurda toplayıcısı? Burada ne işin var? Burası tehlikeli."
+
+"Biliyorum," dedi Kael, ellerini sakinleştirici bir tavırla kaldırarak. "Sadece… durumu merak ettim. Dışarıda, tünellerde belki işe yarar bir şeyler bulurum diye düşünmüştüm. Belki bu küfe benzeyen başka bir şey görmüşümdür." Yalan söylediği için midesi kasıldı ama başka çaresi yoktu.
+
+Elara bir an Kael'i süzdü. Muhtemelen yalan söylediğini anlamıştı ama o kadar çaresizdi ki, en ufak bir umut kırıntısına bile tutunmaya hazırdı. Omuzları çöktü. "Hiçbir şeye benzemiyor, çocuk. Daha önce gördüğümüz hiçbir şeye. Hızla yayılıyor. En kötüsü de Delta Tarlası'nda başladı, en derindeki bölümde. Bildiğimiz hiçbir ilaç, hiçbir tedavi işe yaramıyor."
+
+Kael dikkatle dinlerken, Elara'nın bir an arkasını dönmesinden faydalanarak, önündeki çürümüş dev mantara odaklandı. Zihninden komutu geçirdi: Analiz Et.
+
+Anında, görüş alanının kenarında küçük bir pencere açıldı, sadece Kael'in görebildiği:
+
+[Analiz Ediliyor: Nekrotik Lumina-Mantar]
+[Durum: Ağır Enfeksiyon]
+[Etken: Bilinmeyen Spor Bazlı Patojen. Hızlı Doku Ölümü. Yüksek Bulaşıcılık.]
+[Enerji İmzası: Zayıf, Negatif Yankı Algılandı. Kaynak: Yakınlarda.]
+[Not: Patojen, standart Kovuk ekosistemine yabancı. Köken: Muhtemelen Zindan Derinlikleri.]
+
+Kael bilgileri hızla okudu. Negatif Yankı? Yabancı Patojen? Tam o sırada, mini haritasının sağ alt köşesinde, tarlanın en dip kısmında yer alan ve üzeri molozlarla kapatılmış görünen bir tünel girişinin üzerinde bir ikon belirdiğini fark etti. [Yapısal Zayıflık Tespit Edildi. Potansiyel Gizli Geçit?]
+
+Başını kaldırıp Elara'ya döndü. "Delta Tarlası dedin… Orası tam olarak nerede?"
+
+Elara eliyle mağaranın daha derin, daha karanlık görünen kısmını işaret etti. "Orada. Ama oraya girmeni tavsiye etmem. Küf en yoğun orada. Ayrıca…" Duraksadı, Kael'in baktığı yöne, moloz yığınının olduğu yere baktı. "Şu ilerideki eski tünel var ya? Çökük olan. Delta Tarlası tam onun dibinde başladı."
+
+"O tünel?" diye sordu Kael, masum bir merakla. "Nereye gidiyor?"
+
+Elara omuz silkti. "Hiçbir yere. Dedem anlatırdı, yıllar önce büyük bir sarsıntıda çökmüş. Ötesi sadece dengesiz kaya, derin çatlaklar. Tehlikeli ve işe yaramaz. Bu yüzden girişi molozla kapatıldı."
+
+Kael'in zihnindeki parçalar yerine oturuyordu. Salgın, resmi olarak 'işe yaramaz ve tehlikeli' denilerek kapatılmış, çöktüğü söylenen ama Sistemin 'potansiyel geçit' olarak işaretlediği bir tünelin yanında başlamıştı. Sistemin 'yabancı patojen' ve 'negatif yankı' notları da bu tünelin ardında bir şeylerin olduğu fikrini güçlendiriyordu. Belki de çökmemişti, ya da en azından tamamen değil. Belki de salgının kaynağı oradaydı.
+
+"Anlıyorum," dedi Kael, sesini olabildiğince sıradan tutmaya çalışarak. "Teşekkürler Elara. Eğer dışarıda… tünellerde… tuhaf sporlar veya bitkiler görürsem haber veririm."
+
+Elara sadece yorgun bir şekilde iç çekti. "İyi şanslar, çocuk. Hepimizin şansa ihtiyacı var."
+
+Kael, Mantar Tarlaları'ndan ayrılırken adımları daha kararlıydı. Kovuk'un sakin bir köşesine çekildi, kimsenin onu rahatsız edemeyeceği bir yere. Sırtını nemli kaya duvara yasladı ve zihnindeki haritayı açtı. Delta Tarlası'ndaki o işaretli nokta, çökük tünel girişi, şimdi kırmızı bir hedef gibi parlıyordu.
+
+Bu delilikti. O bölge Küf yüzünden karantinadaydı ve tünelin kendisi tehlikeli kabul ediliyordu. Ama başka bir ipucu yoktu. Sistemi ona bir yol gösteriyordu, görevi ona bir hedef veriyordu. Bu, hurda toplamaktan çok daha tehlikeli olacaktı. Ama belki de ilk kez, yaptığı şeyin gerçek bir anlamı olabilirdi.
+
+Ekipmanını kontrol etti. Sağlam çizmeleri, yıpranmış ama güvenilir bıçağı, yedek pil ve fitilleriyle kafa lambası… Yetersizdi. Çok daha fazlasına ihtiyacı olacaktı. Ama önce o tünele bir göz atmalıydı.
+
+Derin bir nefes aldı. Bir sonraki yolculuğu sıradan bir keşif olmayacaktı. Artık gerçek bir hedefi vardı. Ve o hedef, Derin Kök Kovuğu'nun en karanlık sırlarından birinin ardında yatıyor olabilirdi. Çökük tünelin ardında ne olduğunu öğrenmeliydi.

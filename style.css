@@ -1,0 +1,286 @@
+/* Değişken Tanımları */
+:root {
+    --bg-color: #ffffff;
+    --text-color: #333333;
+    --link-color: #007bff;
+    --link-hover-color: #0056b3;
+    --border-color: #eeeeee;
+    --container-bg: #ffffff;
+    --header-text-color: #444444;
+    --secondary-text-color: #666666;
+    --button-bg: #f0f0f0;
+    --button-text: #333333;
+    --button-border: #cccccc;
+    --button-hover-bg: #e0e0e0;
+    --button-disabled-bg: #f8f8f8;
+    --button-disabled-text: #aaaaaa;
+    --button-disabled-border: #dddddd;
+    --list-item-bg: #e9ecef;
+    --list-item-border: #dee2e6;
+    --list-item-hover-bg: #d1d9e0;
+    --content-bg: #fdfdfd;
+    --footer-text-color: #777777;
+    --theme-button-bg: #f0f0f0;
+    --theme-button-text: #333;
+    --theme-button-hover-bg: #e0e0e0;
+}
+
+body.dark-mode {
+    --bg-color: #1a1a1a;
+    --text-color: #e0e0e0;
+    --link-color: #64b5f6;
+    --link-hover-color: #90caf9;
+    --border-color: #444444;
+    --container-bg: #2c2c2c;
+    --header-text-color: #cccccc;
+    --secondary-text-color: #aaaaaa;
+    --button-bg: #444444;
+    --button-text: #e0e0e0;
+    --button-border: #666666;
+    --button-hover-bg: #555555;
+    --button-disabled-bg: #3a3a3a;
+    --button-disabled-text: #777777;
+    --button-disabled-border: #555555;
+    --list-item-bg: #3a3a3a;
+    --list-item-border: #555555;
+    --list-item-hover-bg: #4f4f4f;
+    --content-bg: #2c2c2c;
+    --footer-text-color: #999999;
+    --theme-button-bg: #444;
+    --theme-button-text: #e0e0e0;
+    --theme-button-hover-bg: #555;
+}
+
+/* Genel Stiller (Değişkenleri Kullanarak) */
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease; /* Tema geçişi için animasyon */
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: var(--container-bg);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Biraz daha belirgin gölge */
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+header {
+    position: relative; /* Butonun konumlanması için */
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+header h1 {
+    text-align: center;
+    color: var(--header-text-color);
+    margin-bottom: 5px; /* Hakkında metniyle arasını açalım */
+}
+
+header p {
+    text-align: center;
+    color: var(--secondary-text-color);
+    margin-bottom: 0; /* Alt boşluğu kaldırdık, header'ın border'ı ayıracak */
+}
+
+/* Tema Değiştirme Butonu Stili */
+.theme-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: var(--theme-button-bg);
+    color: var(--theme-button-text);
+    border: 1px solid var(--button-border);
+    border-radius: 50%; /* Yuvarlak buton */
+    width: 40px;
+    height: 40px;
+    font-size: 1.2em;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+.theme-button:hover {
+    background-color: var(--theme-button-hover-bg);
+    transform: scale(1.1); /* Hafif büyüme efekti */
+}
+
+
+h2 {
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 5px;
+    margin-top: 0; /* İçerik alanındaki başlığın üst boşluğunu sıfırla */
+    margin-bottom: 15px;
+    color: var(--header-text-color); /* Ana başlıklarla aynı renk olsun */
+}
+
+/* Bölüm Listesi */
+#bolum-listesi {
+    list-style: none;
+    padding: 0;
+}
+
+#bolum-listesi li {
+    margin-bottom: 10px;
+}
+
+#bolum-listesi a {
+    display: block;
+    padding: 12px 15px;
+    background-color: var(--list-item-bg);
+    border: 1px solid var(--list-item-border);
+    border-radius: 4px;
+    text-decoration: none;
+    color: var(--link-color);
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+#bolum-listesi a:hover {
+    background-color: var(--list-item-hover-bg);
+    color: var(--link-hover-color);
+    cursor: pointer;
+}
+
+/* Bölüm İçeriği */
+#bolum-icerik-alani {
+    margin-top: 20px;
+}
+
+#bolum-icerik {
+    background-color: var(--content-bg);
+    border: 1px solid var(--border-color);
+    padding: 20px;
+    margin-bottom: 20px;
+    white-space: pre-wrap;
+    min-height: 200px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Navigasyon Butonları */
+.navigasyon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid var(--border-color);
+}
+
+.nav-buton {
+    padding: 10px 15px;
+    border: 1px solid var(--button-border);
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.nav-buton:hover:not(:disabled) {
+    background-color: var(--button-hover-bg);
+}
+
+.nav-buton:disabled {
+    color: var(--button-disabled-text);
+    background-color: var(--button-disabled-bg);
+    border-color: var(--button-disabled-border);
+    cursor: not-allowed;
+}
+
+/* Gizli elementler */
+.hidden {
+    display: none;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 15px;
+    border-top: 1px solid var(--border-color);
+    color: var(--footer-text-color);
+    font-size: 0.9em;
+}
+/* style.css dosyasının SONUNA ekleyin */
+
+/* --- Mobil Uyumluluk Ayarları --- */
+@media (max-width: 768px) { /* Biraz daha geniş tabletler için de geçerli olabilir */
+    .container {
+        margin: 10px; /* Kenar boşluklarını azalt */
+        padding: 15px; /* İç boşlukları azalt */
+    }
+
+    body {
+        /* Mobil cihazlarda okunabilirlik için font boyutunu biraz ayarlayabiliriz */
+         /* font-size: 15px; */ /* Gerekirse açın, varsayılan genellikle iyidir */
+    }
+
+    header h1 {
+         font-size: 1.8em; /* Başlık boyutunu küçült */
+    }
+     header p {
+         font-size: 0.95em;
+     }
+
+    /* Tema butonunu biraz küçültüp konumunu ayarlayalım */
+    .theme-button {
+        top: 8px;
+        right: 8px;
+        width: 35px;
+        height: 35px;
+        font-size: 1.1em;
+    }
+
+    /* Navigasyon butonları yan yana sığmazsa alt alta getirebiliriz */
+    /* İhtiyaç halinde aşağıdaki kısmı aktifleştirin */
+    /*
+    .navigasyon {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .nav-buton {
+        margin: 8px 0; /* Alt alta gelince dikey boşluk */
+        text-align: center; /* Buton yazılarını ortala */
+    }
+    */
+
+    #bolum-listesi a {
+        padding: 10px 12px; /* Liste elemanlarının iç boşluğunu ayarla */
+    }
+}
+
+@media (max-width: 480px) { /* Daha küçük telefonlar için ek ayarlar */
+     header h1 {
+         font-size: 1.6em;
+     }
+     body {
+         /* Çok küçük ekranlarda fontu bir tık büyütebiliriz */
+         /* font-size: 16px; */
+     }
+      .nav-buton {
+         font-size: 0.95em; /* Buton yazılarını küçült */
+         padding: 8px 12px;
+     }
+}
+
+/* --- Tıklayarak Kaydırma İçin Görsel İpucu --- */
+#bolum-icerik {
+    /* Diğer #bolum-icerik stillerine ekleyin veya ayrı yazın */
+    cursor: pointer; /* Farenin el işareti olmasını sağlar */
+    user-select: none; /* Yanlışlıkla metin seçmeyi zorlaştırır (isteğe bağlı) */
+    -webkit-user-select: none; /* Safari için */
+    -moz-user-select: none; /* Firefox için */
+    -ms-user-select: none; /* IE/Edge için */
+}

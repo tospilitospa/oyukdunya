@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
+    <title>Roman Okuma Sitesi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body> <div class="container">
+        <header>
+             <button id="tema-toggle" class="theme-button" aria-label="Temayı Değiştir">☀️</button>
+             
+            <h1 id="roman-ismi">Gizemli Ada</h1>
+            <p id="roman-hakkinda">Issız bir adaya düşen bir grup insanın hayatta kalma mücadelesi ve adanın sırları...</p>
+        </header>
+
+        <main>
+            <div id="bolum-listesi-alani">
+                <h2>Bölümler</h2>
+                <ul id="bolum-listesi">
+                    <li>Bölümler yükleniyor...</li>
+                </ul>
+            </div>
+
+            <div id="bolum-icerik-alani" class="hidden">
+                 <h2 id="bolum-baslik"></h2>
+                <div id="bolum-icerik">
+                    </div>
+                <div class="navigasyon">
+                    <button id="geri-buton" class="nav-buton" disabled>← Geri</button>
+                    <button id="anasayfa-buton" class="nav-buton">Ana Sayfa</button>
+                    <button id="ileri-buton" class="nav-buton" disabled>İleri →</button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Basit Roman Okuyucu</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
