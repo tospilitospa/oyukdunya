@@ -1,0 +1,31 @@
+Oyuk Dünya Günlükleri
+
+Bölüm 11: Karanlıkta Yankılanan Adımlar
+
+Kael, sırt çantasındaki Kadim Bağ Artefaktı'nın ağırlığıyla sendeledi. Küre sadece fiziksel bir yük değildi; sırtına yaslandığı yerden yayılan belli belirsiz, derin bir uğultu hissediyordu. Tuhaf bir şekilde, bu titreşim zihnindeki titreyen Sistem arayüzünü hafifçe yatıştırıyor gibiydi. Rakamlar daha netti, minimap daha az titriyordu. [Sistem Bütünlüğü %58] – küçük bir artış, ama Kael bunun bir bedeli olabileceğinden şüpheleniyordu. Sanki artık karanlıkta fısıldayan bir fener gibiydi; yolunu biraz aydınlatıyor ama aynı zamanda istenmeyen dikkatleri de üzerine çekiyor olabilirdi.
+
+Lambası olmadan ilerlemek, kör bir adamın iğne deliğinden geçmeye çalışması gibiydi. Eli sürekli olarak tünelin soğuk, nemli duvarındaydı, parmakları her çatlağı, her çıkıntıyı ezberlemeye çalışıyordu. Hafızası en büyük silahıydı ama yorgunluk ve acı zihnini bulandırıyordu. Birkaç kez tökezledi, bir keresinde ayağının altındaki zeminin aniden bitmesiyle neredeyse dipsiz gibi görünen bir yarığa yuvarlanıyordu. Son anda kendini geri çekmeyi başardı, kalbi kulaklarında atıyordu.
+
+Artık sadece kendi duyularına güvenemeyeceğini anladı. Öz Enerjisinin son kırıntılarını kullanmak zorundaydı. Zihninden Algıla komutunu geçirdi. Kısa, zayıf bir sonar ping sesi zihninde yankılandı, önündeki birkaç metrelik alanı soluk yankılarla haritaladı. [Öz Enerji: 3/100] Bu lüksü sık sık kullanamayacaktı.
+
+Tam ilerideki bir dönüşü yapmaya hazırlanırken, tünelin derinliklerinden gelen bir sesle donakaldı. İnsan adımı değildi bu. Ağır, ritmik bir sürtünme ve kazıma sesiydi. Sanki büyük bir şey, taş zeminde kendini sürükleyerek ilerliyordu. Panik Kael’in boğazına yapıştı. Sistem arayüzü titredi: [Belirsiz Biyolojik Sinyal Algılandı. Mesafe Yakın. Boyut: Büyük?]
+
+Geri dönecek zaman yoktu. Etrafına umutsuzca bakındı. Eli, hemen yanındaki duvarda dar bir yarık hissetti – gelirken fark ettiği ama önemsemediği bir çatlak. Hiç düşünmeden kendini o daracık boşluğa attı, vücudunu kayalara sürterek olabildiğince derine gizlendi ve nefesini tuttu.
+
+Sürtünme sesi yaklaştı, şimdi daha belirgin, sanki yüzlerce küçük bacak aynı anda hareket ediyordu. Ardından, yeri titreten ağır tak-tak sesleri geldi. Kael'in saklandığı yarığın girişinden devasa, karanlık bir siluet geçti. Ne olduğunu tam olarak seçemedi ama çok büyüktü, belki de bir tür dev eklembacaklı ya da tünel solucanıydı. Yaratık, yarığın önünde bir an duraksadı. Kael, yaratığın havayı koklar gibi sesler çıkardığını duyduğuna yemin edebilirdi. Sırtındaki artefaktın uğultusu sanki daha da artmıştı. Yaratık onu mu hissetmişti? Birkaç uzun, gergin saniye sonra, yaratık ilgisini kaybetmiş gibi tekrar hareketlendi ve Kael'in az önce geldiği yöne doğru, ağır sesler çıkararak uzaklaştı.
+
+Kael, sesler tamamen kaybolana kadar yarıktan çıkmaya cesaret edemedi. Nihayet dışarı çıktığında tüm vücudu titriyordu. Bu karşılaşma, ona ne kadar savunmasız olduğunu ve sırtındaki artefaktın potansiyel tehlikesini acı bir şekilde hatırlatmıştı.
+
+Yoluna devam ettiğinde yeni bir engelle karşılaştı. Daha önce hissettiği sarsıntı, bu bölgede tavanın bir kısmını çökertmişti. Ana yol molozlarla kapanmıştı. Lanet okuyarak etrafı yokladı. Sistemin haritası bu bölgede tamamen kararmıştı. [Harita Verisi Bozuk. Yakın Alan Taraması Yapılıyor... Hata!] Körlemesine ilerlemek zorundaydı. Alçak tavanlı, dar ve dengesiz görünen birkaç yan geçidi denemek zorunda kaldı. Zaman kaybediyordu. Değerli zaman. Sıyrıklar ve eziklerle dolu halde, sonunda kendini tekrar tanıdık bir tünelde bulduğunda, dayanıklılığının sonuna geldiğini hissediyordu. [Dayanıklılık: 25/100. Kritik Seviye.]
+
+Ama tanıdık bir his de geri dönmüştü. Havadaki o hafif 'yanlışlık'. Mor kristallerin bulunduğu bölgeye yaklaşıyordu. Oradan yayılan negatif enerji imzası, kontrol odasından ayrıldığından beri sanki biraz daha güçlenmiş gibiydi. Sistem de bunu doğruladı: [Negatif Enerji İmzası Tespit Edildi. Seviye: Düşük Ama Artıyor? Stabilizasyon Zayıflıyor Olabilir.]
+
+Kırılgan huzur sona eriyordu. Daha da hızlı olmalıydı.
+
+Sonunda, o kritik yol ayrımına ulaştı. Sol tarafı, onu doğrudan mor kristallerin yanından geçirerek kontrol odasına giden servis koridorunun girişine götürecekti. Bu en kısa yoldu. Sağ tarafı ise karanlığa uzanan, ne içerdiğini bilmediği dallanıp budaklanan tünellerdi. Belki daha güvenli bir çevre yolu vardı ama bunu bulmak ne kadar sürerdi? Ya da belki de daha kötü tehlikelerle doluydu?
+
+Kael, soğuk kaya duvara yaslanıp nefesini düzene sokmaya çalıştı. Neredeyse tamamen tükenmişti. Sırtındaki artefaktla birlikte, zayıflamış da olsa o negatif enerji alanından geçme fikri tüylerini diken diken etti. Ya artefakt kristallerle tepkimeye girerse? Ya uyuyan Simbiyotları uyandırırsa? Ama diğer yol belirsizliklerle doluydu ve zamanı yoktu.
+
+Gözlerini kapadı, bir anlığına Derin Kök Kovuğu'nu, Elara'nın endişeli yüzünü düşündü. Sonra gözlerini açtı. Kararını vermişti. En hızlı yol, en tehlikeli yoldu. Ama başka şansı yoktu.
+
+Son gücünü toplayarak kendini duvardan itti. Sol tarafa, mor kristallerin bulunduğu bölgeye doğru ilk adımını attı. Önündeki kısa ama en tehlikeli yolculuğa hazırdı. Mühür Odası onu bekliyordu.
